@@ -49,7 +49,7 @@ if(isset($input) && !empty($input)){
                 $j++;
 
                 if($friend_cnt!=count($popularity)){
-                    //die("Error in input file! - Friends and popularity count does not match!");    
+                    die("Error in input file! - Friends and popularity count does not match!");    
                 }
 
             }else{
