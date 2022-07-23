@@ -1,5 +1,5 @@
 <?php
-
+/*Updated by Ahmad*/
 $input_file = fopen("input.txt", "r") or die("Unable to open file!");
 
 $input = array();
